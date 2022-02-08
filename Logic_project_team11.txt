@@ -1,0 +1,13 @@
+Team : 11
+Name                       Sec BN   E-mail                                ID
+Aya Ahmed musad            1   14   aya.husien01@eng-St.cu.edu.eg       9202338
+Doaa Ashraf Hamdy          1   22   doaa.ahmed01@eng-st.cu.edu.eg       9202519
+Norhan Reda Abd El-wahed   2   31   Norhan.ahmed01@eng-st.cu.edu.eg     9203639
+Hoda Gamal Hamouda         2   33   hoda.ismail00@eng-st.cu.edu.eg      ‏‏   9203673
+
+
+WORK DISTRIBUTION :
+Norhan Reda Abd El-wahed -> MASTER
+Doaa Ashraf Hamdy        -> SLAVE
+Hoda Gamal Hamouda       -> SLAVE TEST BENCH
+Aya Ahmed musad          -> MASTER TEST BENCH
